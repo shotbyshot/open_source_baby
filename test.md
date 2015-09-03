@@ -40,3 +40,7 @@
 _이탤릭_
 
 이 부분은 뭔가 이상하군
+
+마크다운 문법은 아래 문서를 참고할 것
+
+http://nolboo.github.io/blog/2014/03/25/github-flavored-markdown/
